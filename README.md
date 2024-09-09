@@ -28,7 +28,8 @@ For ten years, I’ve been building a successful career in translation and admin
   <tbody>
 
 <tr>
-      <td><a href="https://[github.com/akylson/Terraform_Projects](https://github.com/AnastasiiaLapidus/yandex_practicum)"><b>Yandex Practicum</b></a></td> 
+      <td><a href="https://[[github.com/akylson/Terraform_Projects](https://github.com/AnastasiiaLapidus/yandex_practicum)](https://github.com/AnastasiiaLapidus/yandex_practicum)"><b>Yandex Practicum</b></a></td> 
 </tr>    
   </tbody>
 </table>
+
