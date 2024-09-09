@@ -23,13 +23,12 @@ For ten years, I’ve been building a successful career in translation and admin
   <thead align="left">
     <tr border: none;>
       <td><b>Projects</b></td>
- 
+    </tr>
   </thead>
   <tbody>
-
-<tr>
-      <td><a href="https://[[github.com/AnastasiiaLapidus/yandex_practicum](https://github.com/AnastasiiaLapidus/yandex_practicum)](https://github.com/AnastasiiaLapidus/yandex_practicum)"><b>Yandex Practicum</b></a></td> 
-</tr>    
+    <tr>
+      <td><a href="https://github.com/AnastasiiaLapidus/yandex_practicum"><b>Yandex Practicum</b></a></td> 
+    </tr>    
   </tbody>
 </table>
 
